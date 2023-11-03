@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Astratask</string>
+    <string name="strCrear_Cuenta"><u>Crear cuenta</u></string>
+    <string name="strRecuperarPass"><u>Recuperar contraseña</u></string>
+    <string name="buscar">Buscar</string>
+    <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="channel_name">chat</string>
+    <string name="channel_description">Notificacion pomodoro</string>
+
+</resources>

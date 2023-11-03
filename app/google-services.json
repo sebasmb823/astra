@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549786537401",
+    "project_id": "astratask-66313",
+    "storage_bucket": "astratask-66313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549786537401:android:4bf74e3e5ddfbbb644ba68",
+        "android_client_info": {
+          "package_name": "com.app.astratask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-AIu3YMlipK9-vcp1mHEVoqAZXDOLh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
